@@ -9,6 +9,8 @@ import android.widget.LinearLayout;
 
 public class SplashScreen extends AppCompatActivity {
 
+    /*here're my changes*/
+
     LinearLayout l1,l2;
     Button btnsub;
     Animation uptodown,downtoup;
